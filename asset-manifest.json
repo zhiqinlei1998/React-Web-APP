@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/React-Web-APP/static/css/main.fb279eff.chunk.css",
+    "main.js": "/React-Web-APP/static/js/main.2a8bc6c4.chunk.js",
+    "main.js.map": "/React-Web-APP/static/js/main.2a8bc6c4.chunk.js.map",
+    "runtime-main.js": "/React-Web-APP/static/js/runtime-main.779e3a95.js",
+    "runtime-main.js.map": "/React-Web-APP/static/js/runtime-main.779e3a95.js.map",
+    "static/js/2.f0e181d3.chunk.js": "/React-Web-APP/static/js/2.f0e181d3.chunk.js",
+    "static/js/2.f0e181d3.chunk.js.map": "/React-Web-APP/static/js/2.f0e181d3.chunk.js.map",
+    "index.html": "/React-Web-APP/index.html",
+    "precache-manifest.7cc8ff0e41edb22c2cccef9ead0e07f6.js": "/React-Web-APP/precache-manifest.7cc8ff0e41edb22c2cccef9ead0e07f6.js",
+    "service-worker.js": "/React-Web-APP/service-worker.js",
+    "static/css/main.fb279eff.chunk.css.map": "/React-Web-APP/static/css/main.fb279eff.chunk.css.map",
+    "static/js/2.f0e181d3.chunk.js.LICENSE.txt": "/React-Web-APP/static/js/2.f0e181d3.chunk.js.LICENSE.txt",
+    "static/media/Hey.jpg": "/React-Web-APP/static/media/Hey.6f8cc8d4.jpg",
+    "static/media/alone.jpg": "/React-Web-APP/static/media/alone.d0e48046.jpg",
+    "static/media/cave.jpg": "/React-Web-APP/static/media/cave.94e12022.jpg",
+    "static/media/dark.jpg": "/React-Web-APP/static/media/dark.ac4f4304.jpg",
+    "static/media/dragon.jpg": "/React-Web-APP/static/media/dragon.10390f35.jpg",
+    "static/media/fight.jpg": "/React-Web-APP/static/media/fight.438754b6.jpg",
+    "static/media/home.jpg": "/React-Web-APP/static/media/home.5d7639d0.jpg",
+    "static/media/mission.jpg": "/React-Web-APP/static/media/mission.a1119b16.jpg",
+    "static/media/mountain.jpg": "/React-Web-APP/static/media/mountain.60bc767f.jpg",
+    "static/media/school.jpg": "/React-Web-APP/static/media/school.578b49b5.jpg",
+    "static/media/scroll.jpg": "/React-Web-APP/static/media/scroll.b13ba862.jpg",
+    "static/media/ship.jpg": "/React-Web-APP/static/media/ship.d9928ce5.jpg",
+    "static/media/snow.jpg": "/React-Web-APP/static/media/snow.313165e3.jpg",
+    "static/media/star.jpg": "/React-Web-APP/static/media/star.2d223864.jpg",
+    "static/media/talk.jpg": "/React-Web-APP/static/media/talk.dcae1635.jpg",
+    "static/media/video1.mp4": "/React-Web-APP/static/media/video1.f630e4d5.mp4",
+    "static/media/video2.mp4": "/React-Web-APP/static/media/video2.2e28e881.mp4",
+    "static/media/video3.mp4": "/React-Web-APP/static/media/video3.7030fd89.mp4",
+    "static/media/whiterun.jpg": "/React-Web-APP/static/media/whiterun.faf32d1f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.779e3a95.js",
+    "static/js/2.f0e181d3.chunk.js",
+    "static/css/main.fb279eff.chunk.css",
+    "static/js/main.2a8bc6c4.chunk.js"
+  ]
+}
