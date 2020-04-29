@@ -1,0 +1,103 @@
+body {
+  width:100%;
+  height:100%;
+  background-color: darkgray;
+  margin:0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+	padding: 60px;
+	font-size: 30px;
+	text-align: center;
+	background-color: #222222;
+	font-size: cal(14px + .4vw);
+}
+
+.header h1{
+  padding-top: 70px;
+  color:white;
+  text-align: center;
+  font-size: cal(18px + .8vw);
+}
+
+.header h2{
+  text-align: center;
+  color: lightgray;
+  font-size: cal(15px +.5vw);
+}
+
+.navbar{
+  background-color: gray;
+  overflow: hidden;
+  cursor: pointer;
+}
+  
+.tab{
+  overflow: hidden;
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 13px;
+  text-decoration: none;
+  font-size: 12px;
+
+}
+
+.tab >h2:hover{
+  background-color: gray;
+  color: black;
+}
+
+
+/* Home.css */
+img {
+  height: 300px;
+  padding: 16px;
+}
+
+.home{
+  display: flex;
+}
+
+.home p{
+  margin: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-block: 10px;
+}
+
+/* Images.css*/
+
+.gallary{
+  padding:20px;
+}
+
+.gallary img {
+  text-align: center;
+  width: 30%;
+  height: auto;
+  text-decoration: none;
+}
+
+.gallary img:hover{
+  transform: scale(1.1);
+  filter: brightness(1.2);
+}
+
+/* Videos.css*/
+.vid{
+  padding:20px;
+  text-align: center;
+}
+
+video{
+  padding:30px;
+  width: 25%;
+  height: auto;
+}
+
+/* Links.css*/
+.link{
+  padding: 50px;
+  text-align: center;
+}
