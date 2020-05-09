@@ -101,3 +101,61 @@ video{
   padding: 50px;
   text-align: center;
 }
+
+/* Guest.css */
+.messages {
+  display: flex;
+  margin: 20px;
+}
+
+.Guest {
+  overflow-y: auto;
+  width: 50%;    
+}
+
+
+input[type=text] {
+  width: 100%;
+}
+
+textarea {
+  width: 100%;
+  height:50px;
+}
+
+dot {
+  color: red;
+}
+
+select {
+  width: 100%;
+}
+
+
+#sent_message {
+  background-color: black;
+  color:white;
+  border-radius: 15px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+
+.response {
+overflow-y: auto;
+width: 50%;
+height: 70vh;
+margin-left: 50px;
+}
+
+
+.date {
+color: #222222;
+font-size: 13px;
+}
+
+
+.name {
+color:black;
+font-weight: bold;
+}

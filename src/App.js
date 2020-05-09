@@ -1,5 +1,4 @@
-import React, { Component } from 'react';
-
+import React, { Component } from 'react'
 import Body from './Components/Body'
 import TabList from './Components/TabList'
 import './Components/style.css'
@@ -36,7 +35,12 @@ export class App extends Component{
     {
       id:4,
       title: 'Links'
-    }
+    },
+
+    {
+      id:5,
+      title: 'Guest'
+    },
 
     ]
 
