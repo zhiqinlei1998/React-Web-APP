@@ -42,6 +42,11 @@ export class App extends Component{
       title: 'Guest'
     },
 
+    {
+      id:6,
+      title: 'Movies'
+    }
+
     ]
 
 
