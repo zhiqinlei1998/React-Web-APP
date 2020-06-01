@@ -13,6 +13,7 @@
     "react-back-to-top-button": "0.0.14",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
+    "react-popupbox": "^2.0.8",
     "react-scripts": "3.4.1",
     "reactjs-popup": "^1.5.0",
     "save": "^2.4.0",
