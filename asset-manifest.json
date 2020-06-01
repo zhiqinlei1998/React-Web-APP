@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/React-Web-APP/static/css/main.6510b20d.chunk.css",
-    "main.js": "/React-Web-APP/static/js/main.9cd7e234.chunk.js",
-    "main.js.map": "/React-Web-APP/static/js/main.9cd7e234.chunk.js.map",
+    "main.css": "/React-Web-APP/static/css/main.00f299eb.chunk.css",
+    "main.js": "/React-Web-APP/static/js/main.b57bd42d.chunk.js",
+    "main.js.map": "/React-Web-APP/static/js/main.b57bd42d.chunk.js.map",
     "runtime-main.js": "/React-Web-APP/static/js/runtime-main.779e3a95.js",
     "runtime-main.js.map": "/React-Web-APP/static/js/runtime-main.779e3a95.js.map",
-    "static/js/2.5fc8faf5.chunk.js": "/React-Web-APP/static/js/2.5fc8faf5.chunk.js",
-    "static/js/2.5fc8faf5.chunk.js.map": "/React-Web-APP/static/js/2.5fc8faf5.chunk.js.map",
+    "static/css/2.ccab356c.chunk.css": "/React-Web-APP/static/css/2.ccab356c.chunk.css",
+    "static/js/2.09e53958.chunk.js": "/React-Web-APP/static/js/2.09e53958.chunk.js",
+    "static/js/2.09e53958.chunk.js.map": "/React-Web-APP/static/js/2.09e53958.chunk.js.map",
     "index.html": "/React-Web-APP/index.html",
-    "precache-manifest.4a832484cf7e55394b00ca62e3462329.js": "/React-Web-APP/precache-manifest.4a832484cf7e55394b00ca62e3462329.js",
+    "precache-manifest.fedd7daafb2f0f3acfcb6a7d1c777bd5.js": "/React-Web-APP/precache-manifest.fedd7daafb2f0f3acfcb6a7d1c777bd5.js",
     "service-worker.js": "/React-Web-APP/service-worker.js",
-    "static/css/main.6510b20d.chunk.css.map": "/React-Web-APP/static/css/main.6510b20d.chunk.css.map",
-    "static/js/2.5fc8faf5.chunk.js.LICENSE.txt": "/React-Web-APP/static/js/2.5fc8faf5.chunk.js.LICENSE.txt",
+    "static/css/2.ccab356c.chunk.css.map": "/React-Web-APP/static/css/2.ccab356c.chunk.css.map",
+    "static/css/main.00f299eb.chunk.css.map": "/React-Web-APP/static/css/main.00f299eb.chunk.css.map",
+    "static/js/2.09e53958.chunk.js.LICENSE.txt": "/React-Web-APP/static/js/2.09e53958.chunk.js.LICENSE.txt",
     "static/media/Hey.jpg": "/React-Web-APP/static/media/Hey.6f8cc8d4.jpg",
     "static/media/alone.jpg": "/React-Web-APP/static/media/alone.d0e48046.jpg",
     "static/media/cave.jpg": "/React-Web-APP/static/media/cave.94e12022.jpg",
@@ -34,8 +36,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.779e3a95.js",
-    "static/js/2.5fc8faf5.chunk.js",
-    "static/css/main.6510b20d.chunk.css",
-    "static/js/main.9cd7e234.chunk.js"
+    "static/css/2.ccab356c.chunk.css",
+    "static/js/2.09e53958.chunk.js",
+    "static/css/main.00f299eb.chunk.css",
+    "static/js/main.b57bd42d.chunk.js"
   ]
 }
