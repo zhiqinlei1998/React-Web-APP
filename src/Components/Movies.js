@@ -231,7 +231,8 @@ export class Movies extends Component {
 				movie.year = response.data.Year;
 				movie.plot = response.data.Plot;
 				movie.rating = response.data.imdbRating;
-                movie.poster = response.data.Poster;
+				movie.poster = response.data.Poster;
+				movie.Actors = response.data.Actors;
                 firebase.database().ref('movies').push().set(movie);
 				
 			});
@@ -271,7 +272,8 @@ export class Movies extends Component {
 			movie.year = response.data.Year;
 			movie.plot = response.data.Plot;
             movie.rating = response.data.imdbRating;
-            movie.poster = response.data.Poster;
+			movie.poster = response.data.Poster;
+			movie.Actors = response.data.Actors;
             firebase.database().ref('movies').push().set(movie);
             window.scrollTo({
                 top: document.body.scrollHeight,
@@ -475,7 +477,7 @@ export class Movies extends Component {
 				<div className="movie-forms">
                     <div className="dropdown">
 							<select  onChange={this.updateList} >
-								<option value="">All movie lists</option>
+								<option value="">GraphViz</option>
                                 {this.getUpdateLists()}
                             </select>
                             

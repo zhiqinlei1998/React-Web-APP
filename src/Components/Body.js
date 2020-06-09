@@ -5,6 +5,7 @@ import Videos from './Videos'
 import Links from './Links'
 import Guest from './Guest'
 import Movies from './Movies'
+import Graphs from './Graphs'
 
 export class Body extends Component{
 	displayContent =() => {
@@ -28,6 +29,8 @@ export class Body extends Component{
 		else if (activeTab===6)
 			return <Movies/>
 		
+		else if (activeTab===7)
+			return <Graphs/>
 	}
   render(){
 

@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import config from "../config.js"
+import config from "./config"
 //get a reference to firebase
 const firebase = require('firebase')
 
@@ -79,11 +79,6 @@ export class Guest extends Component {
     render() {
         return (
           <div>
-               
-    
-                {/* --------------------------------------------------------------------------- */}
-                {/* --------------------Here comes the Comment Form---------------------------- */}
-                {/* --------------------------------------------------------------------------- */}
     
               <div className='left_right'>
                 <div className='form'>
@@ -121,9 +116,6 @@ export class Guest extends Component {
                   </h5>
     
     
-    
-    
-    
                   <h6><dot>*</dot>is required</h6>
                   <div>
                     <input type='submit' id='submit' name='submit' value='Submit'></input> 
@@ -135,13 +127,6 @@ export class Guest extends Component {
                 </form>
                 </div>
     
-    
-    
-                
-    
-                {/* --------------------------------------------------------------------------- */}
-                {/* --------------------Here comes the TMD output------------------------------ */}
-                {/* --------------------------------------------------------------------------- */}
                 
                 <div className='out_put'>
                 <h2 >Comment</h2>
